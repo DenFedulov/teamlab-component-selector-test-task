@@ -52,3 +52,10 @@
 li {
     border: #000 solid 2px;
 }
+
+.component_selector img {
+    position: absolute;
+    align-self: flex-end;
+    padding: 10px;
+    height: 30px;
+}
